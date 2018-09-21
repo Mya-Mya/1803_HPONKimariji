@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "百人一首 決まり字抽出プログラム", "百人一首 決まり字抽出プログラム\百人一首 決まり字抽出プログラム.vcxproj", "{468FBE7D-6182-4FB6-B47C-A9B255D06433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Debug|x64.ActiveCfg = Debug|x64
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Debug|x64.Build.0 = Debug|x64
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Debug|x86.ActiveCfg = Debug|Win32
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Debug|x86.Build.0 = Debug|Win32
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Release|x64.ActiveCfg = Release|x64
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Release|x64.Build.0 = Release|x64
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Release|x86.ActiveCfg = Release|Win32
+		{468FBE7D-6182-4FB6-B47C-A9B255D06433}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
